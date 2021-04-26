@@ -11,6 +11,9 @@ I am a Data Scientist based in South Africa, I am passionate about using data to
 * 📱 Flask and Streamlit
 * 📈 Machine Learning
 * 🐼 Pandas
+
+## Examples of my work
+<img src= "https://github.com/NthabisengMoela/NthabisengMoela/blob/main/Machine-Learning.gif" width="256" />
  
 
 
