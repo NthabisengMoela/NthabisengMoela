@@ -13,8 +13,7 @@ I am a Data Scientist based in South Africa, I am passionate about using data to
 * 🐼 Pandas
 
 
-
-## [Examples of my work](https://github.com/NthabisengMoela/Data-Science-Portfolio)
+## [Link to my Portfolio](https://github.com/NthabisengMoela/Data-Science-Portfolio)
  
 
 
