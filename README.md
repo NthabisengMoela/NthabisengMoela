@@ -1,4 +1,4 @@
-![Data Science & Consumer Insights ](https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400)
+![Data Science & Consumer Insights ](https://github.com/NthabisengMoela/NthabisengMoela/blob/main/Banner.gif)
 
 ### Hi there 👋,My name is Nthabiseng Moela
 #### Data Science & Consumer Insights 
