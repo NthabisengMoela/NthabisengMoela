@@ -1,12 +1,19 @@
 ![Data Science & Consumer Insights ](https://github.com/NthabisengMoela/NthabisengMoela/blob/main/Banner.gif)
 
-### Hi there 👋,My name is Nthabiseng Moela
-#### Data Science & Consumer Insights 
+## Hi there 👋,My name is Nthabiseng Moela
+## Data Science & Consumer Insights 
 
 
 I am a Data Scientist based in South Africa, I am passionate about using data to tell stories and I have an interest in consumer behaviour. I have experience in building predictive and prescriptive analytics models, data management and communication.
 
-Skills: Python / SQL / PowerBI / AWS 
+### Skills and Experience
+* 🐍 Python
+* 📊 Microsoft PowerBI
+* 💻 SQL
+* ☁ AWS Cloud Computing
+* 📱 Flask and Streamlit
+* 📈 Machine Learning
+* 🐼 Pandas
 
 - 🔭 I’m currently working on a Market Segmentation project 
 - 🌱 I’m currently learning PySpark and refining my Data Engineering skills 
