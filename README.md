@@ -1,6 +1,8 @@
-### Hi there 👋, Nthabiseng Moela
-#### Data Science & Consumer Insights 
 ![Data Science & Consumer Insights ](https://www.nielsen.com/wp-content/uploads/sites/3/2019/04/data-science-icon-animation-banner-clockwise.gif?fit=1200%2C400)
+
+### Hi there 👋,My name is Nthabiseng Moela
+#### Data Science & Consumer Insights 
+
 
 I am a Data Scientist based in South Africa, I am passionate about using data to tell stories and I have an interest in consumer behaviour. I have experience in building predictive and prescriptive analytics models, data management and communication.
 
