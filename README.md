@@ -1,8 +1,6 @@
 ![Data Science & Consumer Insights ](https://github.com/NthabisengMoela/NthabisengMoela/blob/main/Banner.gif)
 
 ## Hi there 👋,My name is Nthabiseng Moela
-## Data Science & Consumer Insights 
-
 
 I am a Data Scientist based in South Africa, I am passionate about using data to tell stories and I have an interest in consumer behaviour. I have experience in building predictive and prescriptive analytics models, data management and communication.
 
